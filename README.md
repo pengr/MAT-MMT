@@ -57,19 +57,11 @@ You can let this code works by run the scripts in the directory *expriments*.
 ## Citation
 If you use the code in your research, please cite:
 ```bibtex
-@inproceedings{10.1145/3512527.3531386,
-    author = {Peng, Ru and Zeng, Yawen and Zhao, Junbo},
-    title = {HybridVocab: Towards Multi-Modal Machine Translation via Multi-Aspect Alignment},
-    year = {2022},
-    isbn = {9781450392389},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3512527.3531386},
-    doi = {10.1145/3512527.3531386},
-    pages = {380–388},
-    numpages = {9},
-    keywords = {multi-modal machine translation, hybrid vocabulary, multi-aspect alignment},
-    location = {Newark, NJ, USA},
-    series = {ICMR '22}
+@inproceedings{peng2022hybridvocab,
+    title={HybridVocab: Towards Multi-Modal Machine Translation via Multi-Aspect Alignment},
+    author={Peng, Ru and Zeng, Yawen and Zhao, Junbo},
+    booktitle={Proceedings of the 2022 International Conference on Multimedia Retrieval},
+    pages={380--388},
+    year={2022}
 }
 ```
